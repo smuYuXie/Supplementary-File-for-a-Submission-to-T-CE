@@ -1,1 +1,1 @@
-A supplementary file of “A Time-Aware Density-based Generative Network for Class Imbalance in Consumer Transactional Behavioral Fraud Detection“
+A supplementary file of “A Time-Aware Generative Network for Enhancing Transaction Security in Consumer Electronics“
